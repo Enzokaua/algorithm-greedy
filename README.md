@@ -43,4 +43,4 @@ A complexidade do algoritmo é **O(n log n)** devido à ordenação dos itens.
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/algoritmo-guloso-mochila.git
+   git clone https://github.com/enzokaua/algorithm-greedy.git
